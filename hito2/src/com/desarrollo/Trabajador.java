@@ -52,8 +52,8 @@ public class Trabajador {
 	
 	@Override
 	public String toString() {
-		return "El Trabajador " + nombre + ", vive en " + ciudad + ", tiene un salario bruto de " + salarioBruto
-				+ " y contratoTemporal=" + contratoTemporal ;
+		return "El Trabajador " + nombre + " que vive en " + ciudad + ", tiene un salario bruto de " + salarioBruto
+				+ " y un contrato Temporal =" + contratoTemporal ;
 	}
 
 
